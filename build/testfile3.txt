@@ -1,0 +1,15 @@
+P|Carl Gustaf|Bernadotte
+T|0768-101801|08-101801
+A|Drottningholms Slott|Stockholm|10001
+F|Victoria|1977
+A|Haga Slott|Stockholm|10002
+F|Carl Philips|1979
+T|0768-101802|08-101802
+P|Barrack|Obama
+A|1600 Pennsylvania Avenue NW|Washington, D.C 20500
+P|Rick|Grimes
+F|Coral|2001
+P|Tony|Stark
+T|0766-111222|22-199888
+A|200 Park Avenue|The Big Apple|12221
+F|Pepper|1973

@@ -1,0 +1,4 @@
+P|förnamn|efternamn
+T|mobilnummer|fastnätsnummer
+A|gata|stad|postnummer
+F|namn|födelseår
